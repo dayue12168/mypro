@@ -1,6 +1,7 @@
 <?php 
 
 include './function.php';
+// test.....
 $url = 'https://api.weixin.qq.com/cgi-bin/menu/create?access_token='.Token::getToken();
 // post
 $data = ' {
